@@ -1,6 +1,5 @@
 # -*- coding: utf-8-*-
 import logging
-import RPi.GPIO as GPIO
 from notifier import Notifier
 from brain import Brain
 import time
